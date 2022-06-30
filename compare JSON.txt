@@ -1,0 +1,4 @@
+    JSON:
+        * JavaScript Object Notation, It has the format of keys and value pairs.it should 
+        be denoted in double quotes.we call keys to know the value so that order does't 
+        matters.It comes to overcome the drawbacks of XML.
